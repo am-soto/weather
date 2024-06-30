@@ -1,0 +1,15 @@
+{
+    "translation": {
+        "es": "Español",
+        "en": "Inglés",
+        "search": "Buscar ciudad...",
+        "not_found": "Ciudad no encontrada.",
+        "feels": "Sensación",
+        "humidity": "Humedad",
+        "wind": "Viento",
+        "tempMin": "Temperatura mín.",
+        "tempMax": "Temperatura máx.",
+        "select": "Seleccione una ciudad",
+        "forecast": "Predicción"
+    }
+}
